@@ -11,8 +11,8 @@ module.exports = {
     hardhat: {
     },
     sepolia: {
-      url: 'https://mainnet.infura.io/v3/4fdeb7812b9546b4b9027a9187e82bbc',
-      accounts: ['6855591763d1b4166eef0a211fccf52d42ecad8bc792326c64e4281352df6a65'],
+      url: 'https://mainnet.infura.io/v3/key',
+      accounts: ['key'],
       gasPrice: 30000000000, // 30 Gwei
     }
   },
